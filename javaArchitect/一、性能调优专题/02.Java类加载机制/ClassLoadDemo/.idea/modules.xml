@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassLoadDemo.iml" filepath="$PROJECT_DIR$/ClassLoadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OADemo/OADemo.iml" filepath="$PROJECT_DIR$/OADemo/OADemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCaler/SalaryCaler.iml" filepath="$PROJECT_DIR$/SalaryCaler/SalaryCaler.iml" />
+    </modules>
+  </component>
+</project>

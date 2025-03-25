@@ -1,0 +1,3 @@
+com.roy.oa.SalaryCalService=\
+  com.roy.oa.impl.SalaryCalServiceImpl1,\
+  com.roy.oa.impl.SalaryCalServiceImpl2
