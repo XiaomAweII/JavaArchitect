@@ -5,7 +5,7 @@ package com.roy.clinit;
 //当执行构造函数时，price还没有初始化完成，处于连接阶段的准备阶段，其值为默认值 0，这时构造函数的 price 就是
 class Apple{
     static Apple apple = new Apple(10);
-    static double price = 20.00;
+    static double price = 20.00;// 半初始化
     double totalpay;
 
     public Apple (double discount) {

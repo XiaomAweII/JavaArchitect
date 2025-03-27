@@ -1,5 +1,7 @@
 package com.roy;
 
+import java.util.ArrayList;
+
 /**
  * 测试解释器模式和 JIT编译模式
  * -Xint 解释器模式 3682
